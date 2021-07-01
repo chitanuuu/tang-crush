@@ -2,7 +2,7 @@ const CONFIG = { Tình iu to đùng của bích ngọc <3
     introTitle: ' he luuu !',
     introDesc: `Chị có điểu này muốn hỏi em nhớ phải trả lời thật lòng nhaaa`,
     btnIntro: 'hihi',
-    title: 'Em yêu tớ phải không nào ._.',
+    title: 'Em yêu chị phải không nào ._.',
     desc: 'Nếu em thoát ra mà không trả lời tức là em muốn làm chồng chị ',
     btnYes: 'Yêuuuu ơi là yêuuuuu <33',
     btnNo: 'Chị mơ à :3',
