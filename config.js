@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: ' he luuu cậu!',
+    introDesc: `Tớ có điểu này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    title: 'Cậu yêu tớ phải không nào ._.',
+    desc: 'Nếu cậu thoát ra mà không trả lời tức là cậu muốn làm chồng tớ ',
+    btnYes: 'Yêuuuu ơi là yêuuuuu <33',
+    btnNo: 'Cậu mơ à :3',
+    question:'Nói cho tớ biết lý do cậu thích tớ đi <3',
+    btnReply: 'whyyyyyy <3',
+    reply: 'Tại vì tớ bị yêu câu từ cái nhìn đầu tiên ấyy <33333333',
+    mess: 'Tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
+    messDesc: 'Tối nay 7h cậu qua đón tớ đi chơi nhé :33.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://fb.com' //linhttps://www.facebook.com/chitanuuu/
 }
